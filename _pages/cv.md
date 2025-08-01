@@ -13,7 +13,7 @@ redirect_from:
    class="cv-button" 
    target="_blank" 
    download>
-  CV
+  Descarga mi CV
 </a>
 
 
