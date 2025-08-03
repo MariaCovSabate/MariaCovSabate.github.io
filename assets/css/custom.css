@@ -1,0 +1,14 @@
+.page__footer {
+  font-size: 0.8em;
+  padding: 1em 0;
+}
+
+.page__footer-follow,
+.page__footer-copyright {
+  margin-top: 0.5em;
+  opacity: 0.7;
+}
+
+.social-icons i {
+  font-size: 0.9em;
+}
