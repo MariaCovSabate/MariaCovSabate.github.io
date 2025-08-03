@@ -17,6 +17,14 @@ redirect_from:
 </a>
 
 
+<a href="{{ site.baseurl }}/CV_eng.pdf" 
+   class="cv-button" 
+   target="_blank" 
+   download>
+  Descarga mi CV en inglés
+</a>
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
