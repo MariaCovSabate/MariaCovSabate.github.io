@@ -16,7 +16,7 @@ main:
   #  url: /talks/    
 
  - title: "Fun Maps"
-   url: /fun-maps/    
+  url: /fun-maps/   
     
   - title: "Portfolio"
     url: /portfolio/
