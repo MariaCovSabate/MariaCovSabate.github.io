@@ -15,14 +15,14 @@ main:
  # - title: "Talks"
   #  url: /talks/    
 
-#  - title: "Teaching"
- #   url: /teaching/    
+ - title: "Fun Maps"
+   url: /fun-maps/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog"
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
