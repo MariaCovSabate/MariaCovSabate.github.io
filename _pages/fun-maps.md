@@ -16,6 +16,4 @@ author_profile: true
   <img class="img-modal-content" src="/images/Mapa_museos.png" alt="Mapa de los Museos en México">
 </div>
 
-<div style="text-align:center;">
-  INAH datos.*
-</div>
+INAH datos 
